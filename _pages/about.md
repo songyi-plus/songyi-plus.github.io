@@ -28,7 +28,7 @@ My research interests include machine learning, artificial intelligence and thei
 
 
 # 📝 Publications 
- - Sha Zhao, **Song Yi**, Yangxuan Zhou, Jiadong Pan, Jiquan Wang, Jie Xia, Shijian Li, Shurong Dong, and Gang Pan. Wearable Music2Emotion : Assessing Emotions Induced by AI-Generated Music through Portable EEG-fNIRS Fusion. ACM Multimedia 2025.
+ - Sha Zhao* , **Song Yi***, Yangxuan Zhou, Jiadong Pan, Jiquan Wang, Jie Xia, Shijian Li, Shurong Dong, and Gang Pan. Wearable Music2Emotion : Assessing Emotions Induced by AI-Generated Music through Portable EEG-fNIRS Fusion. ACM Multimedia 2025.
 
 
 # 📖 Educations
