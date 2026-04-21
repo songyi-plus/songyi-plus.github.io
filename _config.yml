@@ -22,12 +22,12 @@ google_scholar_stats_use_cdn : false
 # Site Author
 author:
   name             : "Song Yi"
-  avatar           : "images/profile.png"
+  avatar           : "images/profile.jpg"
   bio              : "PhD student in Computer Science at Zhejiang University, China."
   location         : "Hangzhou, China"
   employer         :
   pubmed           : 
-  # googlescholar    : "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  googlescholar    : "https://scholar.google.com/citations?user=tXBzaowAAAAJ&hl=en&oi=sra"
   email            : "syi@zju.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
