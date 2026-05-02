@@ -25,13 +25,13 @@ My research interests include machine learning, artificial intelligence and thei
 # 🔥 News
 - *2026.04*: &nbsp;🎉 Our paper "_Tuning the Mind: Closed-loop Emotion Regulation via AIGC Music Driven by Wearable Multimodal Neurofeedback_" is        accepted by **IEEE Transactions on Affective Computing**! Grateful to all my co-authors.
 - *2025.07*: &nbsp;🎉 Our paper "_Wearable Music2Emotion : Assessing Emotions Induced by AI-Generated Music through
-  Portable EEG-fNIRS Fusion_" is accepted by **ACMMM 2025**! Grateful to all my co-authors.
+  Portable EEG-fNIRS Fusion_" is accepted by **ACM Multimedia 2025**! Grateful to all my co-authors.
 
 
 # 📝 Publications 
  - `TAFFC 2026` Sha Zhao, **Song Yi**<sup>**✉**</sup>, Yangxuan Zhou, Jiadong Pan, Jiquan Wang, Jie Xia, Shijian Li, Shurong Dong, Gang Pan.
 [Tuning the Mind: Closed-loop Emotion Regulation via AIGC Music Driven by Wearable Multimodal Neurofeedback.](https://ieeexplore.ieee.org/document/11477097)
- - `ACMMM 2025` Sha Zhao<sup>#</sup> , **Song Yi**<sup>#</sup>, Yangxuan Zhou, Jiadong Pan, Jiquan Wang, Jie Xia, Shijian Li, Shurong Dong, and Gang Pan. [Wearable Music2Emotion : Assessing Emotions Induced by AI-Generated Music through Portable EEG-fNIRS Fusion. ACM Multimedia 2025.](https://arxiv.org/abs/2508.04723) [[ZBra-Music dataset](https://zju-bmi-lab.github.io/ZBra/)]
+ - `ACM MM 2025` Sha Zhao<sup>#</sup> , **Song Yi**<sup>#</sup>, Yangxuan Zhou, Jiadong Pan, Jiquan Wang, Jie Xia, Shijian Li, Shurong Dong, and Gang Pan. [Wearable Music2Emotion : Assessing Emotions Induced by AI-Generated Music through Portable EEG-fNIRS Fusion. ACM Multimedia 2025.](https://arxiv.org/abs/2508.04723) [[ZBra-Music dataset](https://zju-bmi-lab.github.io/ZBra/)]
 
 
 # 📖 Educations
